@@ -1,0 +1,10 @@
+version: "3.1"
+
+services:
+  piadocas:
+    build:
+      context: .
+    container_name: piadocas-api
+    ports:
+      - 3355:3333
+    restart: unless-stopped
