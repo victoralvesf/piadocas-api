@@ -11,14 +11,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.2",
-    "lodash": "^4.17.21"
+    "express": "^4.17.2"
   },
   "devDependencies": {
     "@babel/core": "^7.16.5",
     "@babel/node": "^7.16.5",
     "@babel/preset-env": "^7.16.5",
-    "@types/lodash": "^4.14.178",
     "nodemon": "^2.0.15"
   }
 }
